@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
          child: Column(
            children: [
              Card(
-               child: Text('Iphone '
+               child: Text('Iphone  2'
                    '  Price 100 ',),
                // margin: EdgeInsets.symmetric(vertical: 20.0,horizontal: 90.0),
                margin: EdgeInsets.only(left: 90.0),
